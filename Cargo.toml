@@ -1,0 +1,6 @@
+[package]
+name = "sohandy"
+version = "0.1.0"
+authors = ["Bradley M. Kuhn <bkuhn@ebb.org>"]
+
+[dependencies]
